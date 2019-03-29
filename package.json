@@ -22,7 +22,7 @@
   "dependencies": {
     "dclassify": "^1.1.2",
     "discord.js": "^11.4.2",
-    "mongodb": "^3.2.2",
+    "mongo": "^0.1.0",
     "request": "^2.88.0",
     "sentiment": "^5.0.1",
     "winston": "^3.2.1",
