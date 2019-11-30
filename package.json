@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/petpixels/dogbot#readme",
   "dependencies": {
+    "botkit": "^0.7.4",
     "dclassify": "^1.1.2",
     "discord.js": "^11.4.2",
     "mongo": "^0.1.0",
